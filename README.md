@@ -1,6 +1,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=johnshift&show_icons=true&theme=algolia)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnshift&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
-<!-- [![johnshift's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=johnshift)](https://github.com/anuraghazra/github-readme-stats) -->
+[![johnshift's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=johnshift&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ![](https://github.com/johnshift/gh-stats/blob/master/generated/overview.svg) -->
 <!-- ![](https://github.com/johnshift/gh-stats/blob/master/generated/languages.svg) -->
