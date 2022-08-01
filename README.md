@@ -1,5 +1,5 @@
 
-![](https://github-readme-stats.vercel.app/api?username=johnshift&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=johnshift&show_icons=true&count_private=true)
 
 ![](https://github.com/johnshift/gh-stats/blob/master/generated/overview.svg)
 ![](https://github.com/johnshift/gh-stats/blob/master/generated/languages.svg)
